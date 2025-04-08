@@ -1,0 +1,36 @@
+﻿---
+ID: "ccd0d5b4-3680-4014-9dca-e416bc292567"
+Parent: "ffea8ca4-cf8c-453a-9f7d-49d6e60eea5d"
+Template: "60fe154b-e0bc-4fa8-b87c-55ab54015a49"
+Path: /sitecore/content/Verticals/Services/Home/portfolio/demo
+SharedFields:
+- ID: "4600cff7-676d-4d2f-b646-a44ba7939705"
+  Hint: Thumbnail
+  Value: |
+    <image mediaid="9aa47a83-136e-4abc-8088-1d181b2fb7e4" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d0143ba3-79d4-47e6-874d-1503b11fbd12"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "10c6bd9b-7e77-47aa-a1fb-0e2ae97f81d0"
+      Hint: Title
+      Value: demo
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{963CC2A7-2B4C-4D36-9E4F-3B7A286CE620}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: demo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "203d93d0-8fb8-4a35-a388-1ef9b44ac103"
