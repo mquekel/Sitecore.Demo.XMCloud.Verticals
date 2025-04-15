@@ -25,7 +25,7 @@ Languages:
             <r
               uid="{B719CBA3-49AD-4DAB-8637-C536295EA866}"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Two product teaser&amp;ComponentConfiguration&amp;LibraryId=52OvlVr4U8gjGYdTieeXlC&amp;ComponentId=bkpRNHFB2v&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=FyqCjxaeIW-LxrN&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Two product teaser&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:par="ComponentName=Two product teaser&amp;ComponentConfiguration&amp;LibraryId=3GO9nP4VBSADSPcEhrOAwW&amp;ComponentId=bkpRNHFB2v&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=FyqCjxaeIW-LxrN&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Two product teaser&amp;GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
           </d>
         </r>
@@ -34,7 +34,7 @@ Languages:
       Value: cardetail
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b388a2a1-18c4-4072-90bb-54de7b913094"
+      Value: "9b594da8-35a9-449e-93d9-f7041d34d79c"
     - ID: "ca15ff2f-1966-4a91-81bf-bf2eba17c20c"
       Hint: Title
       Value: cardetail
