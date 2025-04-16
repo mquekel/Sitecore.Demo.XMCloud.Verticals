@@ -1,0 +1,19 @@
+﻿---
+ID: "6afc6fc9-1eae-44de-b144-7e16260c10ea"
+Parent: "f8b6cad3-c778-48e8-a4b0-3a82219a4073"
+Template: "4ad644a8-7cdb-4574-8df1-d01c3bb7b624"
+Path: /sitecore/content/Verticals/Basic/Home/cardetail/*
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: *
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58774d90-bce8-4e21-a194-e677018613d6"
+    - ID: "ca15ff2f-1966-4a91-81bf-bf2eba17c20c"
+      Hint: Title
+      Value: *

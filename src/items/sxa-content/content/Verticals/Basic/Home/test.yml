@@ -1,8 +1,8 @@
 ﻿---
-ID: "c0df6b65-dfe0-41e7-a3b4-f356d6e15b5c"
+ID: "4022deed-287d-46e1-a395-93c9f33087ec"
 Parent: "7d13b944-5d94-4747-a77e-5453cc52e973"
 Template: "4ad644a8-7cdb-4574-8df1-d01c3bb7b624"
-Path: /sitecore/content/Verticals/Basic/Home/About
+Path: /sitecore/content/Verticals/Basic/Home/test
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
@@ -38,10 +38,10 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "d1141126-e091-42f4-b583-acfb4d00b43d"
+    Value: "811e8a8c-3fcf-4146-a198-f022717472d9"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Over
+    Value: 
   Versions:
   - Version: 1
     Fields:
@@ -50,7 +50,7 @@ Languages:
       Value: About
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "593952e1-1208-4fa4-bf10-64036e9596af"
+      Value: "a319134c-7c5b-4d12-b843-b16e81a0d3e9"
     - ID: "ca15ff2f-1966-4a91-81bf-bf2eba17c20c"
       Hint: Title
       Value: About
@@ -58,10 +58,10 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "f21d25e2-c939-4b7e-b5de-e44f2c0d96b9"
+    Value: "b386d866-56b9-43a8-ba01-6ac481e85903"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: apropos
+    Value: 
   Versions:
   - Version: 1
     Fields:
@@ -70,7 +70,7 @@ Languages:
       Value: À notre sujet
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "89d17c26-dddf-461e-84ad-7be7ba6d0a5e"
+      Value: "788b80ad-3ca4-45bd-809a-e73de3be9eac"
     - ID: "ca15ff2f-1966-4a91-81bf-bf2eba17c20c"
       Hint: Title
       Value: À notre sujet
